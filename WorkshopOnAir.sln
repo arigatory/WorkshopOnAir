@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopOnAir", "WorkshopOnAir\WorkshopOnAir.csproj", "{AD040B69-EF5D-4AFA-9F21-CB844781891F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_TaskScheduler", "A_TaskScheduler\A_TaskScheduler.csproj", "{D79B1F9A-CCE1-4164-A437-921F468C3CC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD040B69-EF5D-4AFA-9F21-CB844781891F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD040B69-EF5D-4AFA-9F21-CB844781891F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD040B69-EF5D-4AFA-9F21-CB844781891F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD040B69-EF5D-4AFA-9F21-CB844781891F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79B1F9A-CCE1-4164-A437-921F468C3CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79B1F9A-CCE1-4164-A437-921F468C3CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79B1F9A-CCE1-4164-A437-921F468C3CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79B1F9A-CCE1-4164-A437-921F468C3CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
